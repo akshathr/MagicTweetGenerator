@@ -24,7 +24,9 @@ TweetNet.ipynb | Jupyter Notebook detailing data collection and deep learning mo
 
 ## Acknowledgements
 [How to Make a Twitter Bot with Python](https://towardsdatascience.com/how-to-make-a-twitter-bot-for-free-6bca8298f1ef)
+
 [How to Train and Deploy a Deep Learning Model with FastAI](https://www.freecodecamp.org/news/deep-learning-with-fastai/)
+
 [Aaron Mendelson](https://github.com/amendelson)
 
 ## Contributing

@@ -1,4 +1,5 @@
 # MagicBotson
+Akshath Rajaram
 
 [MagicBotson](https://twitter.com/BotsonMagic) is a Twitter bot that uses deep learning to post tweets in the style of NBA legend Magic Johnson.
 
@@ -18,7 +19,7 @@ Files  | Description
 .env  | Environment variables for keys (not included in repo)
 buildpackage.sh | Script to zip the lambda function outlined in lambda_function.py
 createlambdalayer.sh | Packages the libraries included in requirements.txt 
-entrypoint.py | Test the bot locally 
+entrypoint.py | File that tests the bot locally 
 src | Folder containing lambda function and generated tweets
 TweetNet.ipynb | Jupyter Notebook detailing data collection and deep learning model
 

@@ -19,7 +19,7 @@ Files  | Description
 .env  | Environment variables for keys (not included in repo)
 buildpackage.sh | Script to zip the lambda function outlined in lambda_function.py
 createlambdalayer.sh | Packages the libraries included in requirements.txt 
-entrypoint.py | File that tests the bot locally 
+entrypoint.py | Helps to test the bot locally ('python entrypoint.py')
 src | Folder containing lambda function and generated tweets
 TweetNet.ipynb | Jupyter Notebook detailing data collection and deep learning model
 
